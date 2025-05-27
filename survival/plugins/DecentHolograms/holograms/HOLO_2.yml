@@ -1,0 +1,28 @@
+location: spawn:-748.926:65.500:-227.618
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: GOLD_INGOT!ENCHANTED'
+    height: 0.6
+  - content: '&a&lShop'
+    height: 0.6
+  - content: 'Buy or Sell items at'
+    height: 0.3
+  - content: '&a&n/shop'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '#ICON: CLOCK!ENCHANTED'
+    height: 0.6
+  - content: '&a&lAuction House'
+    height: 0.6
+  - content: 'Buy or Sell Tools and Armor'
+    height: 0.3
+  - content: 'at &a&n/auctionhouse'
+    height: 0.3
+  actions: {}

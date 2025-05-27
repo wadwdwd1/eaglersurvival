@@ -1,0 +1,45 @@
+#=================================================================================================#
+#                                 Main Configuration of Chat Bot
+#=================================================================================================#
+#
+#    1. This feature you can create trigger messages that will activate the chat bot, and the bot will
+#    respond with your bot response.
+#
+#    2. You can execute commands just encase you need to for any reason.
+#
+#    3. You can have a required permission so if the player doesn't have the correct permission
+#    the bot will not do anything towards that player or rank.
+#
+#    4. Sound List
+#       - 1.9 and newer: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+#       - 1.8 and older: http://docs.codelanx.com/Bukkit/1.8/org/bukkit/Sound.html
+#
+#    5. To learn more on how to use chatbot please go on our wiki page.
+#       - https://github.com/H1DD3NxN1NJA/ChatManager/wiki/Chat-Bot
+#
+#=================================================================================================#
+
+Chat_Bot:
+
+  Enable: true
+  
+  Bot_Prefix: "&a&lʙᴏᴛ &8&l┃ &7"
+  
+  #Broadcast the bots response to everyone on the server.
+  Broadcast_Response: true
+  
+  #The time it takes the bot to respond to a player in seconds.
+  Response_Time: 1
+  
+  #The sound that is played when the bot responds to someones question.
+  #Do Sound: '' to disable
+  Sound: 'BLOCK_NOTE_BLOCK_IRON_XYLOPHONE'
+  
+Messages:
+  One:
+    Players_Messages:
+    - "help"
+    Bot_Response: "&7Hello!&f {player}&7 if you ever need help do &b&n/helpop <message>&7 and an available staff(s) will reply you!"
+    Required_Permission: "none"
+    No_Permission_Message: "none"
+    Executed_Command: "none"

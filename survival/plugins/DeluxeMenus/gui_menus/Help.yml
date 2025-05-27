@@ -1,0 +1,94 @@
+menu_title: '&8Guide'
+open_command:
+- guide
+- help
+- menu
+size: 27
+items:
+  'background_head':
+    material: BLACK_STAINED_GLASS_PANE
+    display_name: ' &r '
+    slots:
+    - 0-26
+  'close':
+    material: BARRIER
+    display_name: '&a&l❌ &aClose'
+    click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    slot: 22
+  'GETTING_STARTED':
+    material: BOOK
+    display_name: '&a� &a&lGetting Started'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7In order to get started type &a/rtp'
+    - ' &a| &7to randomly teleport to the &aSurvival World'
+    - ' &a| &7use your golden shovel, and claim your base/house.'
+    - ''
+    - ' &a| &7You can invite your friends to your claim'
+    - ' &a| &7by doing &a/trust <player name> '
+    - ''
+    - '&eClick to view the tutorial.'
+    slot: 10
+    click_commands:
+    - '[close]'
+    - '[player] tutorial'
+    - '[sound] BLOCK_CHEST_CLOSE'    
+  'ECONOMY':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM4MWM1MjlkNTJlMDNjZDc0YzNiZjM4YmI2YmEzZmRlMTMzN2FlOWJmNTAzMzJmYWE4ODllMGEyOGU4MDgxZiJ9fX0=
+    display_name: '&a⛂ &a&lEconomy'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7Earn money by getting yourself'
+    - ' &a| &7employed with &a/jobs join &e<job>&7 or by'
+    - ' &a| &7also gather materials of any'
+    - ' &a| &7type and &7sell&7 them in the &a/shop'
+    - ''
+    - ' &a| &7Check your balance whenever'
+    - ' &a| &7with &a/balance&7 and view global'
+    - ' &a| &7balances with &a/baltop&7 command.'
+    - ''
+    - ' &a| &7You can share the wealth with'
+    - ' &a| &a/pay &e<player> &e[amount] &7command.'
+    - ''
+    - ' &a| &7Don''t forget that you also can use'
+    - ' &a| &7Auctionhouse to sell materials &a/ah sell &e[amount]&7!'
+    - ''
+    slot: 12
+  'VOTING':
+    slot: 14
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFmNTBmMTcyYTUxMGZhNjBiMmFmMGNiYjg0ZjM3MTUzNmM5NjVlYTU1MDg4MTI1M2Y3ZWNkMjY0MDc5NjllYiJ9fX0=
+    display_name: '&a☑ &a&lVoting'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7Vote to support the server and'
+    - ' &a| &7receive:'
+    - '    &8- &7$100'
+    - '    &8- &7+🔑1 Vote Key'
+    - '&c(these rewards are not included in the setup!)'
+    - ''
+  'RANKS':
+    material: NAME_TAG
+    item_flags:
+    - HIDE_ENCHANTS
+    enchantments:
+    - 'DURABILITY;1'
+    display_name: '&a➓ &a&lRanks'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7Ranks provide additional perks and'
+    - ' &a| &7commands to players that choose'
+    - ' &a| &7to support the server.'
+    - ''
+    - ' &a| &7Ranks can be obtained &8(&a&lONLY&8)&7 through the'
+    - ' &a| &7Webstore: &a&nstore.yournetwork.net'
+    - ''
+    - '&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
+    click_commands:
+    - '[player] ranks'
+    slot: 16

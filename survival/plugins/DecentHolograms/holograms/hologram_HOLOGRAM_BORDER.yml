@@ -1,0 +1,21 @@
+location: spawn:-740.630:64.000:-206.287
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: BEACON'
+    height: 0.5
+  - content: '&e&lWORLD BORDER'
+    height: 0.8
+  - content: '&a&lWILD &8| &f10,000 x 10,000'
+    height: 0.3
+  - content: '&c&lNETHER &8| &f10,000 x 10,000'
+    height: 0.3
+  - content: '&e&lTHE END &8| &f10,000 x 10,000'
+    height: 0.7
+  actions: {}
+always-face-player: true

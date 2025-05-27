@@ -1,0 +1,16 @@
+enable: true
+slot: 26
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: COOKED_BEEF
+  lore:
+  - '&7Most Delicious foods in Minecraft! Kinda..'
+  displayname: '&cFood'
+  name: '&8Food'

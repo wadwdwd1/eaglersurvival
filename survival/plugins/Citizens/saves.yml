@@ -1,0 +1,700 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 17
+npc:
+  '3':
+    metadata:
+      flyable: true
+    name: '&a&LSHOP'
+    uuid: a7346891-026c-4cc6-adf4-75d3f514fe15
+    traits:
+      location:
+        bodyYaw: -66.06546
+        world: spawn
+        x: -761.9804
+        y: 62.0
+        z: -230.4807
+        yaw: -66.0655
+        pitch: -11.0493
+      type: ALLAY
+      spawned: true
+      gravity:
+        enabled: true
+      age: {}
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      commandtrait:
+        commands:
+          '0':
+            command: shop
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,gravity,mounttrait,lookclose,location,type,age
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '2':
+    metadata:
+      flyable: true
+    name: '&a&LAUCTION HOUSE'
+    uuid: 988b6c3d-9abe-4a61-9eab-acdd9ab1e779
+    traits:
+      location:
+        bodyYaw: -162.42935
+        world: spawn
+        x: -758.4601
+        y: 62.0
+        z: -218.641
+        yaw: -162.4294
+        pitch: -11.9643
+      type: ALLAY
+      spawned: true
+      gravity:
+        enabled: true
+      age: {}
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      commandtrait:
+        commands:
+          '0':
+            command: ah
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      hologramtrait: {}
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,gravity,mounttrait,lookclose,location,type,age
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '1':
+    metadata:
+      flyable: true
+    name: '&a&LWILD'
+    uuid: d79c4961-57ef-490e-a3c9-826977810bae
+    traits:
+      location:
+        bodyYaw: -158.10704
+        world: spawn
+        x: -733.4839
+        y: 62.0
+        z: -202.4333
+        yaw: -158.107
+        pitch: -11.3594
+      type: ALLAY
+      spawned: true
+      gravity:
+        enabled: true
+      age: {}
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      commandtrait:
+        commands:
+          '0':
+            command: wild
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,gravity,mounttrait,lookclose,location,type,age
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '4':
+    metadata:
+      flyable: true
+    name: '&a&lPoints Shop'
+    uuid: 1fa2b286-53a9-467f-96c9-7d156dbb0819
+    traits:
+      type: ALLAY
+      location:
+        bodyYaw: 89.51767
+        world: spawn
+        x: -709.6163
+        y: 62.0
+        z: -226.3783
+        yaw: 89.5177
+        pitch: -2.1228
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      spawned: true
+      commandtrait:
+        commands:
+          '0':
+            command: pointss
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      gravity:
+        enabled: true
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,gravity,mounttrait,lookclose,location,type
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '6':
+    metadata:
+      flyable: true
+      cached-skin-uuid: 4970e15c-1ae4-41a0-9684-7a9048ad9b7b
+      cached-skin-uuid-name: jobs
+    name: '&7[/jobs]'
+    uuid: 7ac83314-4ccb-402d-b9a2-55422364071c
+    traits:
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: true
+      location:
+        bodyYaw: 32.63018
+        world: spawn
+        x: -727.7
+        y: 61.0
+        z: -258.3727
+        yaw: 32.6302
+        pitch: -9.6493
+      commandtrait:
+        commands:
+          '0':
+            command: jobs browse
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      hologramtrait:
+        lines:
+          '0':
+            textshadow: true
+            text: '&a&lJOBS'
+            margin:
+              top: 0.0
+              bottom: 0.0
+      skintrait:
+        signature: cvdyUdLjArwPBaHN+zJgN96nsVmu5L9jJWi8ESKuIA73kUXoUCtBU0iENFPzusOFlr76ExoFWF9WXXR3zQd+F1eiL258Y5nFj5zYFrY3OP1vspuhAecthUWl6AJxrGIUoC8CTF+b41YXdp03T2diidKOeqGk0cxYbd1PNCJEZcgwt0L0sw09zrEwH0YkW5PG6TBrX8iMPu3nsD+f6aI2hSV0Q24F/LPGd4cyztIs5dGTzEhbPvTTQpoBnWltCytWR3NEFfuPXbgQYNzv1vyx/kNB5/VJ2Mf5jWtIu5601YZ/O9r0DRzxSy+zvigjeUNNVSeiQxmsbsWFRtrYY75nmXYeZbgd2keHVlIXxX5viG4dukCnabDhSdKsOMuiVjsukcpSGWvBLbSBod4m4Y2+Znrbb4ZuVWcAsnUd/KYF0YOpR4IS0fxO2vaIdJHV2BeAcpzvqNcz0k/oeU+TnspoJLS/m2YzXV/hhIvt9qRQNBuxuJJnTBG08fIGEINFUw+7QBco0jgFRHp9IsuqPlGkdRnWLd+SrimpJ/l3rw1FwifIKBFrnICWmbYsZRq1MH0aMNjpUouF/nZPboqi+fKuKFfC7nHM+7VhhtaPcgeke0Rz6rQg062n+mHQlH4EUxcyMHzCZ6ncG6Vk5EwOgoIs0kLJjw9XwhgIPr0rP2xIpd0=
+        skinName: jobs
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MjUyNzc5OTMzNywKICAicHJvZmlsZUlkIiA6ICI0OTcwZTE1YzFhZTQ0MWEwOTY4NDdhOTA0OGFkOWI3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb2JzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2MTczYWI5MzE5NzJhZTg3MjhkOTE4YTViM2MzOGQ0YmMyOThiMDIwYzE4YTEzZWI3Mjg1ODQ5ZmNmYzFiOGMiCiAgICB9CiAgfQp9
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,mounttrait,skintrait,lookclose,type,inventory,hologramtrait,gravity,location
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '9':
+    metadata:
+      cached-skin-uuid: 528e1fca-efe6-430d-a0ca-40c473eea8b8
+      cached-skin-uuid-name: water
+    name: '&7/warps'
+    uuid: 703b8d81-e4aa-497c-b188-0d488ae0d765
+    traits:
+      skintrait:
+        signature: ZiiPaNBznA/lxhG0ZFO6/gjxuWoLbrlbEWVvDr6dfCDTVYGgm4/9MdOBkKbbLrooJO7/7bReUgriKLcUSTWZuN3uzYGjHSYGLWSzced/flblskYpecQE9TBoEZdchOqd7i3Amxrrg+GAxs2q8qgHxfNZafW5s80UUEBw5A4kKZeNGal93/YymTyNc48hbDrHtZTk5Z5/xa1ma+l+bPvsls6rmuA41tkI2rkcKOX5Gd317SknTX8wrXjAPt1RhYqRimyWRVyKFBpBnZoWssJkdGLGAiich5epDRgfSym5XaLP0BIZmFLcnlVcJ8wMsYHQs9Fs2x4uiW+9nlY92XXJGSEgCrLw9OvdSrbTGxuuAEv/8SeRp/QP/3RYMikF0DmtFxsP7o0hapmBUIoVimKbFRNyD9tTr3tVT1+EoVneY0eisvsXr6WENpRLlpBmSv2iLHlZWBQU4JYxgEZP0aBujNF62e6Sf/LQAiwAwkBYBN72NuiaHL4qLYS53yY4oT/SWulSgH3/2aRi6wDmIvgyyL9yNIWXg0VYruehu25v9vcPXeatt+aWiXMmyMvFuxH249rlw6aOYeFdN7R+x+INiKrT4r8+fse5uQ77Rq/78q6h/sRQxSqWsi0fTg41FPSMjG1aMXvT1sIzPvWFN/7T7y8S1Au7NfCsOPmPHbhYMWk=
+        skinName: water
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MjUyNzYyNzEyMywKICAicHJvZmlsZUlkIiA6ICI1MjhlMWZjYWVmZTY0MzBkYTBjYTQwYzQ3M2VlYThiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3YXRlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ODdhZmEwNzEyYzQ2OGIzYjY1YWU3M2Y2MDNmOWMzZGIxYzExZWRjNzQxZjUwOTA4M2UwZmNiZTdlM2RjODhmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+      spawned: true
+      hologramtrait:
+        lines:
+          '0':
+            textshadow: true
+            text: '&e&lWARPS'
+            margin:
+              top: 0.0
+              bottom: 0.0
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      location:
+        bodyYaw: 46.84439
+        world: spawn
+        x: -729.3501
+        y: 62.0
+        z: -230.4788
+        yaw: 46.8444
+        pitch: 0.0
+      commandtrait:
+        commands:
+          '0':
+            command: warps
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      type: PLAYER
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,skintrait,lookclose,location,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '8':
+    metadata:
+      cached-skin-uuid: 99430022-738b-4d40-843d-c000de52856b
+      cached-skin-uuid-name: cools
+    name: '&7(/ranks)'
+    uuid: c51e5399-7fe4-4441-87c2-53b6a9ae330f
+    traits:
+      skintrait:
+        signature: ENvFEGSVb+DBy2STXGAXl9g84ulf2uAi6TKX+eC31zYM3gOIBPSj8AvlsF0TRFwv0sIJ9b24nfN8Qv4cZGCQdUT5KqtTZwHbXMp9fTB8Fc6UofJoU3o2vh+JIBSB604r6rpOc8squQc8s6DsOAP0jTdNNWchdYZC7jJHCM+xi/TYzs8v5AS6b6JJmvXNDPbbZHvCvO0zYvdLQyX3qNpI2iZNzffMrdX+LMPZECfcY/XFsBO8VEBJxu7rvl7TaUtNcW/jR60K54/iGY+Dc8uiH9rXI4oV6Nh1YJvES4V+QvKp0BE9UltngBd37IEdwtwPER4x2B7M7KGdOVv2mDpczo3+EUmSoQxDxe6e/YSwlIIHJluuOTE08x+BHSmVmCBWNRYk1wlLTkvzkXGoSDXUYJ6MdaJtV0fCvI77UqnpooWtZdIwytdhKPBgOiNf7Na08ii06dVNAtW9cw5hwv+lgx8gm35p2quieKXKSUrgrAKeSVA6PlgsOHHVmslV2WEOseL8eST1YE5wPlDsv1AmsLEmIVbQBi8Q4HH3mYh8DqWeT7GCf3Nn93NxBuO/HMHCl3VxiX2GqmFmcqbSZKd2gBPWQP7fWBpg3ZsDFcUJlaSNyxRwa33eV2dx9pwjZBvV9NE7BPI5zxbMIMv81174XWeaYrL23DjgmBvynqpJ42k=
+        skinName: cools
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MjUyNzY1OTI0OCwKICAicHJvZmlsZUlkIiA6ICI5OTQzMDAyMjczOGI0ZDQwODQzZGMwMDBkZTUyODU2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb29scyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZTM0N2Y2YzY1NmNiMjkxYmJlNmRlNDI4MWY0MzE1OTVhOWQ2YTcyMTM1NGNlZmUwMGQwYTViZDEwYTNmNjM4IgogICAgfQogIH0KfQ==
+      spawned: true
+      hologramtrait:
+        lines:
+          '0':
+            textshadow: true
+            text: '&e&lRANKS'
+            margin:
+              top: 0.0
+              bottom: 0.0
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      location:
+        bodyYaw: -43.506935
+        world: spawn
+        x: -735.5401
+        y: 62.0
+        z: -230.4349
+        yaw: -43.5069
+        pitch: 0.0
+      commandtrait:
+        commands:
+          '0':
+            command: ranks
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      type: PLAYER
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,skintrait,lookclose,location,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '14':
+    metadata:
+      cached-skin-uuid: fd363183-6ef5-418f-b8bf-257adb11cce5
+      cached-skin-uuid-name: wizard
+    name: '&7(/ce)'
+    uuid: 4382f079-7da3-4509-9134-c606b887b0a8
+    traits:
+      skintrait:
+        signature: D+mhAnBU6eCD9GHR0trwdoA7rDnyamG9KFepCyip0gLc3NTLBatlFRYjteuqy98mSHAhaZSVBC2eL6nZosDGJn0VUx7Iv6hhW6j2Mvvj6aoCFCrXZi+F3PNRK29aMiN+NB3t5Q+GdLuD3Dmo8riw2SAp1DFlFpr5Gs1ef1FKy4cggUGHfmxn68TnNpDByasY/Ey/VcShufZvEjk039jR/oCZgicix6c7y2iOGKWgR8KU5NB9jPNJU6cG6VHkiFb4j/tSfm70hnh6LoZjYpLpKR6SVvAT7ImIa4ldDcf2/Yx4NcLKkL2rihsH711188tRTe8I0ZmcyySMSCjz24cj+/mKTeg6VELjHdkqNC+wOoT8N8wp3dTDX//9jTpjfaSoRVx2TKLMlkO0ofC6SsZ2F7FxeZpiJ6HOB6YJoZMo4KyYFynpN4a31Nx+XgLg3vUla+5yb273GSl1+rTTCjF3JxmHSNxYH6ra3kFj3+9MQCTQzAe3F8yJ3hgcgDQ1JojYnO8TIqC9AG5C+KL/e8gFa51II8zVubHeOjZ3v4Jv4AaCV6B6tAU8DtGLmPWFnsi0Ktb85fZRrzgVp4Jp8VTOy21IDQ5kUqqb3yj8weZ2vKd1J6v1ovCvJ3Cuy13qxRR420aUEsrzgT77/bqpgJj5TXDgLD5L/CaIk9lAclQhWeI=
+        skinName: wizard
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MjUyNzU2NTM3NiwKICAicHJvZmlsZUlkIiA6ICJmZDM2MzE4MzZlZjU0MThmYjhiZjI1N2FkYjExY2NlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXaXphcmQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTMxNWRjNzRiNTQxMDUxMTAxODhlZGQwYzU0MmQ4NjZhNjM3ZjE1NzUzNmNhZjAzNzhhMDZkNTRjNWI3ZWQ1MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+      commandtrait:
+        commands:
+          '0':
+            command: ce
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      location:
+        bodyYaw: -134.10385
+        world: spawn
+        x: -735.6819
+        y: 62.0
+        z: -224.4462
+        yaw: -134.1039
+        pitch: 0.0
+      spawned: true
+      hologramtrait:
+        lines:
+          '0':
+            textshadow: true
+            text: '&e&lCustom Enchantments'
+            margin:
+              top: 0.0
+              bottom: 0.0
+      type: PLAYER
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,skintrait,lookclose,location,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '12':
+    metadata:
+      flyable: true
+      cached-skin-uuid: d88b4740-6157-4e96-b51c-f5111bd5752e
+      cached-skin-uuid-name: interviewing
+    name: '&7/skills'
+    uuid: 8a0e0419-0847-4f3b-bff4-84298708fd69
+    traits:
+      commandtrait:
+        commands:
+          '0':
+            command: skills
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      location:
+        bodyYaw: 48.46231
+        world: spawn
+        x: -727.6863
+        y: 61.0
+        z: -255.3033
+        yaw: 48.4623
+        pitch: -1.0678
+      spawned: true
+      gravity:
+        enabled: true
+      type: PLAYER
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      hologramtrait:
+        lines:
+          '0':
+            textshadow: true
+            text: '&a&lSKILLS'
+            margin:
+              top: 0.0
+              bottom: 0.0
+      skintrait:
+        signature: lbOmUot1+PZBgLpz30aN9OOZkIHYLj9laYvPXbwfpAKQpL5zVfElUwDKrN9WUkM4L/08Oxcb9qObeQ+PO3Wh9FwaStzgBNctn9XQ3/UGspx50tFITF+OkoL+N6QJjKWuas9SViemZrKHkI7uJTbXmd7dVOTCaLPw+5cZAT1RZEmg6pperORtI3Q2S2R5uPk43PiluOH4ZBg1tde346qZMVw9Tl2VspXR9zafIkuky6jGtuRXkVECy2YVKqkEwIbzzur4FeE1MyPFplFLGuC7DSdGc+80m/qHJqJcnO89HnqxG2IKkHu86rbRMH0gv7et5WB0HVG6dUd7QsJqCZEs6Gy3nWsfH3OzB0czMrF5oZch5cbWepPRbgMHML9KMJFocYt4AWvaVcust3wFosutNfvSzHSDuyzyzkWdxvNRRfURpMDOYEPNysT75M2bBgw/7X7xm2EbZXoDBWGIv1R8HFTIzbttgjPXn9xOTsSmYDha76nZK/kIwa/Vv7CjPLm6sfVoGI0+mM4V8m9so+rdtJK4CECn0LL74+0ElRcd6Yo91dB3Pua5veTgvq35WwvLqY9cyQRRqJseEKFTLHfoOiFs3UdNU4ljbPwTq7shqlSlqAKZR1AtXmVp24xA/r5y3saVZ1hDEzjbXA1IULFq2QO3mYyBPYAJGYKOnoJgsLs=
+        skinName: interviewing
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MjUyNzc0NTA4NSwKICAicHJvZmlsZUlkIiA6ICJkODhiNDc0MDYxNTc0ZTk2YjUxY2Y1MTExYmQ1NzUyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbnRlcnZpZXdpbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRkZmZlMTVkMDMxYzZhOWMyM2U4N2E2YmExNjMxNzg0Y2ZmOTU0ZDE3ZDdiYjEyNTdmMjJhNzAwMzk5MmRkNCIKICAgIH0KICB9Cn0=
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,gravity,skintrait,lookclose,location,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '10':
+    metadata:
+      cached-skin-uuid: e67073b2-3b6b-4c78-aa9a-de3dbe379d0a
+      cached-skin-uuid-name: skin
+    name: '&7(/guide)'
+    uuid: c6820076-747f-4bc8-baef-0274470bd7b5
+    traits:
+      skintrait:
+        signature: DAfh6PgK1IcjTpKs6uJwDaDTlxenNYtbIiLMOCoA9SYjiM+FKB/czTO+Qm6ekkLHv+WulDcTj3MbxjvxU7o7fVtqmehRZ0VyYDCjgXC5Zpxc6n0ic0NLg06rP4Y4ic/m3fDSxEfC+aY6DaMY0AH4iXXQ4NEjeW3msih4U4VVDxMqCbtl5Zign50addrUSrFoHWz3Uy38j1eECUOmMNbBi9+bMl9XxYzHNQQ9/PhymyAs2PAXCqNDaD6tDWEO927ATt/RaUV6EU8txk3y8l1LVLt1bf4s0KIDIUsPZ+D1klN7s0UDmosMMDLlKC8ScN1kTSd4tYizyHjI4WCmh+bNOWkrXa6bKlX4gCGoAxuyl9oAN+4gfXzZI8v9zwEkrua5szISi5NfaKu319o2k3Css3UHV6MEpDGX9sq30fPIqbxlgzaYq5A6M/hFgvu3PcBPS4vOzdNA6Zs7EoSLoGzG+yDM8VraJdHF+HI+BBICXoWsqGqRboy22KdKZWfLyMZUHrrmxK4iNLsA+GDshS7lwC7Yt5LaDo4HnK76c25umve7/zoAz3sGVs6GXcN1LL3M4wfijYOSS6HCYl1criY0m9tFjmS8yxAY5DBuJXO2AC1mt3fLRtapamneMidl2USzHGuQCfESH/5FBgN//wwZFjeeGyRd6+uu6oVJX716UX4=
+        skinName: skin
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MjUyNzU1NDA4MywKICAicHJvZmlsZUlkIiA6ICJlNjcwNzNiMjNiNmI0Yzc4YWE5YWRlM2RiZTM3OWQwYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU5NTZmMjVlNDNmMDViNWNiN2E1MWFkMTI5NTM1YjViYzZmZWNhYjAwYzUxODMzNzMzMDkxNjIzYzE1Nzg0NjkiCiAgICB9CiAgfQp9
+      commandtrait:
+        commands:
+          '0':
+            command: guide
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      location:
+        bodyYaw: 113.564606
+        world: spawn
+        x: -729.6501
+        y: 62.0
+        z: -224.5366
+        yaw: 133.5646
+        pitch: 0.0
+      spawned: true
+      hologramtrait:
+        lines:
+          '0':
+            textshadow: true
+            text: '&e&lGUIDE'
+            margin:
+              top: 0.0
+              bottom: 0.0
+      type: PLAYER
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,skintrait,lookclose,location,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '15':
+    metadata:
+      flyable: true
+    name: '&a&lDAILY REWARDS'
+    uuid: 49a01123-c8e4-4594-a6aa-8653df6797c0
+    traits:
+      commandtrait:
+        commands:
+          '0':
+            command: dailyrewards
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      spawned: true
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        bodyYaw: -155.48386
+        world: spawn
+        x: -733.5231
+        y: 62.0
+        z: -191.7
+        yaw: -155.4839
+        pitch: -7.8404
+      type: ALLAY
+      gravity:
+        enabled: true
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,gravity,lookclose,location,type
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '17':
+    metadata:
+      flyable: true
+    name: '&7[/rules]'
+    uuid: 71b66a22-76b9-435d-bbb8-afab0fd0ed6d
+    traits:
+      type: VEX
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      gravity:
+        enabled: true
+      spawned: true
+      hologramtrait:
+        lines:
+          '0':
+            textshadow: true
+            text: '&4&lRULES'
+            margin:
+              top: 0.0
+              bottom: 0.0
+      location:
+        bodyYaw: -38.301975
+        world: spawn
+        x: -737.3872
+        y: 62.0
+        z: -247.5054
+        yaw: -38.302
+        pitch: -58.0616
+      commandtrait:
+        commands:
+          '0':
+            command: rules
+            hand: RIGHT
+            player: true
+            npc: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: -1.0
+            experienceCost: -1
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+      lookclose:
+        range: 5.0
+        enabled: true
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+    traitnames: owner,spawned,scoreboardtrait,rotationtrait,commandtrait,hologramtrait,gravity,lookclose,location,type
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748307132921
+  login: 1748307045898
+money: '0'
+last-account-name: YeeVigg1211
+lastlocation:
+  world: 20671814-84e0-47f8-8068-22aae5cf773e
+  world-name: spawn
+  x: -728.5205664855474
+  y: 61.0
+  z: -240.1002593149755
+  yaw: -8.866559028625488
+  pitch: 19.975727081298828
+logoutlocation:
+  world: 1b4a6361-73e5-4cd7-8c7e-96cced591bbe
+  world-name: world
+  x: -746.2320143716387
+  y: 76.0
+  z: 787.7273713739546
+  yaw: -139.51657104492188
+  pitch: 18.599992752075195

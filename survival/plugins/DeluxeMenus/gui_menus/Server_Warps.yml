@@ -1,0 +1,80 @@
+menu_title: '&8Warp Server'
+size: 27
+open_command:
+- 'Warp-Server'
+items:
+  'background_body':
+    material: BLACK_STAINED_GLASS_PANE
+    display_name: ' &r '
+    slots:
+    - 0-26
+  'close':
+    material: BARRIER
+    display_name: '&a&l❌ &aClose'
+    click_commands:
+    - '[close]'
+    - '[sound] BLOCK_NOTE_BLOCK_IRON_XYLOPHONE'
+    slot: 22
+  'goback':
+    material: ARROW
+    display_name: "&a&l⤊ &aGo Back"
+    click_commands:
+    - "[sound] "
+    - "[player] warps"
+    slot: 18    
+  'warp_spawn':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkMDJjZGMwNzViYjFjYzVmNmZlM2M3NzExYWU0OTc3ZTM4YjkxMGQ1MGVkNjAyM2RmNzM5MTNlNWU3ZmNmZiJ9fX0=
+    slot: 10
+    display_name: '&aSpawn'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7A Chill and cozy region where you can'
+    - ' &a| &7chit-chat with people.'
+    - ''
+    - '&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴛᴇʟᴇᴘᴏʀᴛ'
+    click_commands:
+    - '[close]'
+    - '[player] warp spawn'
+  'warp_crate':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYyMmI2YTNhMGYyNGJkZWVhYjJhNmFjZDliMWY1MmJiOTU5NGQ1ZjZiMWUyYzA1ZGRkYjIxOTQxMGM4In19fQ==
+    slot: 12
+    display_name: '&aCrates'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7Redeem all of your available'
+    - ' &a| &7key(s) in here!'
+    - ''
+    - '&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴛᴇʟᴇᴘᴏʀᴛ'
+    click_commands:
+    - '[close]'
+    - '[player] warp crates'
+  'warp_shop':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2UzZGViNTdlYWEyZjRkNDAzYWQ1NzI4M2NlOGI0MTgwNWVlNWI2ZGU5MTJlZTJiNGVhNzM2YTlkMWY0NjVhNyJ9fX0=
+    slot: 14
+    display_name: '&aShop'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7Earn money by selling an items'
+    - ' &a| &7in the &a/shop&7.'
+    - ''
+    - '&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴛᴇʟᴇᴘᴏʀᴛ'
+    click_commands:
+    - '[close]'
+    - '[player] warp shop'
+  'warp_auctions':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUyMWQyY2E5MjI3ZmRjMjIwYjMyYTk5OTA4NDNhMzRjN2U5NzVlZWM1OTVkMGYxMzdlMjUwYzE0Y2Q5NzI0NiJ9fX0=
+    slot: 16
+    display_name: '&aAuctions'
+    lore:
+    - ''
+    - '&aDescription'
+    - ' &a| &7Sell your items in the auction house'
+    - ' &a&l| &a/ah sell &e<price>&7.'
+    - ''
+    - '&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴛᴇʟᴇᴘᴏʀᴛ'
+    click_commands:
+    - '[close]'
+    - '[player] warps auctions'

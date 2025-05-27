@@ -1,0 +1,22 @@
+location: spawn:-733.616:64.000:-208.562
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+origin: UP
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: GRASS_BLOCK'
+    height: 0.5
+  - content: '&a&lSurvival &8| &f&lWilderness'
+    height: 0.8
+  - content: '&fTeleports you to a random locations in &a&nWILD'
+    height: 0.3
+  - content: '&c&nNETHER&f, and &e&nTHE END&f world to make it alot easier'
+    height: 0.3
+  - content: '&ffor you to get resources or claim a lands!'
+    height: 0.7
+  actions: {}
+always-face-player: true

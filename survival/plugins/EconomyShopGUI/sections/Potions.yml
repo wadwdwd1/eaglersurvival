@@ -1,0 +1,17 @@
+enable: true
+slot: 30
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  potion-glow: true
+  material: POTION
+  lore:
+  - '&7You don''t have an auto brewer??'
+  displayname: '&bPotions + Tipped Arrows'
+  name: '&8&lPotions + Tipped Arrows'

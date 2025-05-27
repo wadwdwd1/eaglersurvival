@@ -1,0 +1,16 @@
+enable: true
+slot: 31
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: TUBE_CORAL
+  lore:
+  - '&7Your base could use a little decor!'
+  displayname: '&dDecoration ♥'
+  name: '&8Decoration'

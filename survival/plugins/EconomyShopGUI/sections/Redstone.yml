@@ -1,0 +1,17 @@
+enable: true
+slot: 33
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: REDSTONE
+  lore:
+  - '&7For all redstone geeks!'
+  - '&cIF YOU DARE MAKE A LAG MACHINE-'
+  displayname: '&cRedstone'
+  name: '&8Redstone'

@@ -1,0 +1,118 @@
+Auto_Broadcast:
+  Global_Messages:
+    Enable: false
+    Header_And_Footer: true
+    Interval: 600
+    Prefix: ''
+    Header: |2
+
+      &r                                                  &r
+    Footer: |2
+
+      &r                                                  &r
+    Messages:
+    - |2-
+                          &a&lWELCOME TO YOURNETWORK!
+      &f                                &3{player}!
+      &f                      Do you need help? &b/help&f!
+      &b                      &ndiscord.yournetwork.net
+    - |2-
+                                  &a&lJOIN A JOBS!
+      &f                                 &3Salary!
+      &f                  Join a jobs for more income! &b/jobs&f!
+      &b                      &ndiscord.yournetwork.net
+    - |2-
+                            &a&lVOTE FOR YOURNETWORK!
+      &f                              &3Vote Support!
+      &f                  Get more rewards by voting! &b/vote&f!
+      &b                      &ndiscord.yournetwork.net
+    - |2-
+                               &a&lHELP-OP SUPPORT!
+      &f                              &3Urgent Staff!
+      &f            Found an critical issue? &b/helpop &3<message>&f!
+      &b                      &ndiscord.yournetwork.net
+    - |2-
+                             &a&lRULES & AGREEMENTS!
+      &f                              &3Prevent Warn!
+      &f                 Have you read our rules? &b/rules&f!
+      &b                      &ndiscord.yournetwork.net
+    - |2-
+                            &a&lYOURNETWORK STORE!
+      &f                                &3:Tada:!
+      &f                   Visit our store at: &b/store&f!
+      &b                      &nstore.yournetwork.net
+    sound:
+      toggle: true
+      value: ENTITY_VILLAGER_AMBIENT
+      pitch: 1.0
+      volume: 1.0
+  #
+  #
+  #
+  Per_World_Messages:
+    Enable: false
+    Header_And_Footer: true
+    Interval: 600
+    Prefix: ''
+    Header: |2
+
+      &r                                                  &r
+    Footer: |2
+
+      &r                                                  &r
+    Messages:
+      BUILD_nether:
+      - |2-
+                              #FF0000&lYOURNETWORK STORE!
+        &f                                &a:Tada:!
+        &f                   Visit our store at: &a/store&f!
+        &a                      &nstore.yournetwork.net
+      - |2-
+                                 #FF0000&lRULES & AGREEMENTS!
+        &f                                &aPrevent Warn!
+        &f                   Have you read our rules? &a/rules&f!
+        &a                      &ndiscord.yournetwork.net
+    sound:
+      toggle: true
+      value: UI_BUTTON_CLICK
+      pitch: 1.0
+      volume: 1.0
+  Actionbar_Messages:
+    Enable: false
+    Interval: 60
+    Prefix: '&7[&6AutoBroadcast&7]'
+    Messages:
+    - '{Prefix} &7Auto-Broadcast action bar message.'
+    - '{Prefix} &7Plugin created by H1DD3NxN1NJA.'
+    - '{Prefix} &7Hello &a{player} &7there are &a{online} &7players online.'
+    sound:
+      toggle: false
+      value: ''
+      pitch: 1.0
+      volume: 1.0
+  Title_Messages:
+    Enable: false
+    Interval: 60
+    Title: '&aTitle'
+    Messages:
+    - '&7Auto-Broadcast title message.'
+    - '&7Plugin created by H1DD3NxN1NJA.'
+    - '&7Hello &a{player} &7there are &a{online} &7players online.'
+    sound:
+      toggle: false
+      value: ''
+      pitch: 1.0
+      volume: 1.0
+  Bossbar_Messages: # 1.9+
+    Enable: false
+    Interval: 60
+    Bar_Time: 10 # How long the boss bar stays on for.
+    Messages:
+    - '&7Auto-Broadcast bossbar message.'
+    - '&7Plugin created by H1DD3NxN1NJA.'
+    - '&7Hello &a{player} &7there are &a{online} &7players online.'
+    sound:
+      toggle: false
+      value: ''
+      pitch: 1.0
+      volume: 1.0

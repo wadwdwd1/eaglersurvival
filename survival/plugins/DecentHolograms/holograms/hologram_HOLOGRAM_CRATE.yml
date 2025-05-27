@@ -1,0 +1,22 @@
+location: spawn:-713.559:64.000:-225.557
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+origin: UP
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: LIME_SHULKER_BOX'
+    height: 0.5
+  - content: '&a&lSurvival &8| &f&lCrates'
+    height: 0.8
+  - content: '&fRedeem all of your available keys to open the crate'
+    height: 0.3
+  - content: '&fand get a rewards!, you can get more keys by &avoting'
+    height: 0.3
+  - content: '&for by &adonating&f.'
+    height: 0.7
+  actions: {}
+always-face-player: true

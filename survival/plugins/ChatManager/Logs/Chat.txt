@@ -1,0 +1,398 @@
+[Sat Jan 21 23:02:24 WIB 2023] ItzFabb__: &fytest. 
+[Sat Jan 21 23:02:33 WIB 2023] ItzFabb__: &ftest. 
+[Sat Jan 21 23:05:56 WIB 2023] ItzFabb__: &ftd
+[Sat Jan 21 23:14:20 WIB 2023] ItzFabb__: &fkon. 
+[Sat Jan 21 23:14:21 WIB 2023] ItzFabb__: &ft
+[Sat Jan 21 23:14:24 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:24 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:25 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:25 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:26 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:26 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:26 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:26 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:26 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:27 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:27 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:27 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:27 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:14:27 WIB 2023] ItzFabb__: &faaaaaaaaaaaa. 
+[Sat Jan 21 23:30:00 WIB 2023] ItzFabb__: &f6
+[Sat Jan 21 23:30:07 WIB 2023] ItzFabb__: &f7
+[Sat Jan 21 23:30:08 WIB 2023] ItzFabb__: &f5
+[Sat Jan 21 23:30:10 WIB 2023] ItzFabb__: &f4
+[Sat Jan 21 23:30:11 WIB 2023] ItzFabb__: &f3
+[Sat Jan 21 23:30:12 WIB 2023] ItzFabb__: &f2
+[Sat Jan 21 23:30:14 WIB 2023] ItzFabb__: &f1
+[Sat Jan 21 23:30:15 WIB 2023] ItzFabb__: &f10
+[Sat Jan 21 23:30:17 WIB 2023] ItzFabb__: &f9
+[Sat Jan 21 23:30:18 WIB 2023] ItzFabb__: &f8
+[Sat Jan 21 23:30:19 WIB 2023] ItzFabb__: &f8
+[Sat Jan 21 23:30:20 WIB 2023] ItzFabb__: &f-6
+[Sat Jan 21 23:30:22 WIB 2023] ItzFabb__: &f6
+[Sat Jan 21 23:30:23 WIB 2023] ItzFabb__: &f0
+[Sat Jan 21 23:30:25 WIB 2023] ItzFabb__: &f11
+[Sat Jan 21 23:30:26 WIB 2023] ItzFabb__: &f12
+[Sat Jan 21 23:30:27 WIB 2023] ItzFabb__: &f13
+[Sat Jan 21 23:30:29 WIB 2023] ItzFabb__: &f14
+[Sat Jan 21 23:30:32 WIB 2023] ItzFabb__: &f15
+[Sat Jan 21 23:32:54 WIB 2023] ItzFabb__: &ftest
+[Sat Jan 21 23:58:31 WIB 2023] ItzFabb__: &fHcSZKr
+[Sat Jan 21 23:58:39 WIB 2023] ItzFabb__: &fovvN8I
+[Sat Jan 21 23:58:58 WIB 2023] ItzFabb__: &f1659
+[Sat Jan 21 23:59:11 WIB 2023] ItzFabb__: &fWater
+[Sat Jan 21 23:59:20 WIB 2023] ItzFabb__: &fMineral
+[Sat Jan 21 23:59:26 WIB 2023] ItzFabb__: &fVillager
+[Sat Jan 21 23:59:38 WIB 2023] ItzFabb__: &fEnder Dragon
+[Sat Jan 21 23:59:53 WIB 2023] ItzFabb__: &fChain
+[Sun Jan 22 00:10:19 WIB 2023] ItzFabb__: &f<
+[Sun Jan 22 00:10:22 WIB 2023] ItzFabb__: &f>
+[Sun Jan 22 00:10:23 WIB 2023] ItzFabb__: &ftest
+[Sun Jan 22 00:47:38 WIB 2023] ItzFabb__: &f[CONSOLE] mp give %player_name% MONEY_POUCH_1TIER-1 1
+[Sun Jan 22 00:47:56 WIB 2023] ItzFabb__: &fmp MONEY_POUCH_1TIER-1 %player_name% 1
+[Sun Jan 22 00:48:38 WIB 2023] ItzFabb__: &fa
+[Sun Jan 22 00:48:39 WIB 2023] ItzFabb__: &ftest
+[Sun Jan 22 00:49:12 WIB 2023] ItzFabb__: &fmp MONEY_POUCH_1TIER-1 %player_name% 1
+[Sun Jan 22 00:49:30 WIB 2023] ItzFabb__: &fAncient
+[Sun Jan 22 00:49:52 WIB 2023] ItzFabb__: &fTotem
+[Sun Jan 22 00:50:19 WIB 2023] ItzFabb__: &fmp MONEY_POUCH_1TIER-1 %player_name% 1
+[Sun Jan 22 00:59:52 WIB 2023] ItzFabb__: &x&e&7&2&e&1&b&lNo Reward :(
+[Sun Jan 22 01:00:03 WIB 2023] ItzFabb__: &x&e&7&2&e&1&2No Reward
+[Sun Jan 22 01:00:23 WIB 2023] ItzFabb__: &x&e&7&2&e&1&2No Reward ☹
+[Sun Jan 22 01:00:43 WIB 2023] ItzFabb__: &f[ɴᴏ ʀᴇᴡᴀʀᴅ]
+[Sun Jan 22 01:00:48 WIB 2023] ItzFabb__: &x&e&7&2&e&1&2[ɴᴏ ʀᴇᴡᴀʀᴅ] ☹
+[Sun Jan 22 02:42:38 WIB 2023] ItzFabb__: &f58
+[Sun Jan 22 23:26:08 WIB 2023] ItzFabb__: &ftest
+[Sun Jan 22 23:26:10 WIB 2023] ItzFabb__: &ft
+[Sun Jan 22 23:26:12 WIB 2023] ItzFabb__: &fta
+[Sun Jan 22 23:26:14 WIB 2023] ItzFabb__: &fa
+[Sun Jan 22 23:26:15 WIB 2023] ItzFabb__: &fa
+[Sun Jan 22 23:26:15 WIB 2023] ItzFabb__: &fa
+[Sun Jan 22 23:26:16 WIB 2023] ItzFabb__: &fa
+[Sun Jan 22 23:26:16 WIB 2023] ItzFabb__: &fat
+[Sun Jan 22 23:26:17 WIB 2023] ItzFabb__: &fat
+[Sun Jan 22 23:26:24 WIB 2023] ItzFabb__: &ftest
+[Sun Jan 22 23:26:39 WIB 2023] ItzFabb__: &ft
+[Sun Jan 22 23:36:34 WIB 2023] ItzFabb__: &ftest\\
+[Sun Jan 22 23:37:32 WIB 2023] ItzFabb__: &ftest
+[Sun Jan 22 23:39:41 WIB 2023] ItzFabb__: &ft52
+[Sun Jan 22 23:39:43 WIB 2023] ItzFabb__: &f52
+[Sun Jan 22 23:39:46 WIB 2023] ItzFabb__: &f52
+[Sun Jan 22 23:39:46 WIB 2023] ItzFabb__: &ft
+[Sun Jan 22 23:39:49 WIB 2023] ItzFabb__: &f52
+[Sun Jan 22 23:39:52 WIB 2023] ItzFabb__: &f51
+[Sun Jan 22 23:39:52 WIB 2023] ItzFabb__: &f50
+[Sun Jan 22 23:40:39 WIB 2023] ItzFabb__: &fRootws
+[Sun Jan 22 23:40:41 WIB 2023] ItzFabb__: &fRoots
+[Sun Jan 22 23:41:03 WIB 2023] ItzFabb__: &fDi
+[Sun Jan 22 23:41:06 WIB 2023] ItzFabb__: &fPicks
+[Sun Jan 22 23:41:12 WIB 2023] ItzFabb__: &fRocks
+[Sun Jan 22 23:41:15 WIB 2023] ItzFabb__: &fDicks
+[Sun Jan 22 23:41:45 WIB 2023] ItzFabb__: &fBricks
+[Sun Jan 22 23:41:46 WIB 2023] ItzFabb__: &fBricks
+[Sun Jan 22 23:41:47 WIB 2023] ItzFabb__: &fBricks
+[Sun Jan 22 23:41:47 WIB 2023] ItzFabb__: &fBricks
+[Sun Jan 22 23:41:49 WIB 2023] ItzFabb__: &fBricks
+[Sun Jan 22 23:41:51 WIB 2023] ItzFabb__: &fbicks
+[Sun Jan 22 23:41:55 WIB 2023] ItzFabb__: &fbricks
+[Sun Jan 22 23:42:34 WIB 2023] ItzFabb__: &f[i] <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Sun Jan 22 23:42:38 WIB 2023] ItzFabb__: &fBricks <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Sun Jan 22 23:42:57 WIB 2023] ItzFabb__: &fBricks <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Sun Jan 22 23:43:14 WIB 2023] ItzFabb__: &f[i] <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Thu Feb 02 23:06:03 WIB 2023] ItzFabb__: &fRooted <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Thu Feb 02 23:38:49 WIB 2023] ItzFabb__: &ftes <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Thu Feb 02 23:38:51 WIB 2023] ItzFabb__: &fa <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Thu Feb 02 23:38:52 WIB 2023] ItzFabb__: &f1 <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Thu Feb 02 23:44:22 WIB 2023] ItzFabb__: &f1 <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Thu Feb 02 23:46:06 WIB 2023] ItzFabb__: &f1 <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Fri Feb 03 00:08:34 WIB 2023] ItzFabb__: &f1 <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Wed Feb 08 10:05:18 WIB 2023] ItzFabb__: &fall <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Wed Feb 08 10:05:41 WIB 2023] ItzFabb__: &fall <chat=91461185-dc6c-45a1-9315-d1bf924e65cc>
+[Wed Feb 08 14:36:18 WIB 2023] ItzFabb__: &fItzFabb__
+[Wed Feb 08 14:36:23 WIB 2023] ItzFabb__: &fItzFabb__
+[Wed Feb 08 14:36:31 WIB 2023] ItzFabb__: &fSword
+[Wed Feb 08 14:36:48 WIB 2023] ItzFabb__: &fBottle
+[Wed Feb 08 14:36:59 WIB 2023] ItzFabb__: &f70
+[Wed Feb 08 14:37:01 WIB 2023] ItzFabb__: &f9
+[Wed Feb 08 14:37:03 WIB 2023] ItzFabb__: &f79
+[Wed Feb 08 14:37:15 WIB 2023] ItzFabb__: &fDinnerbone
+[Wed Feb 08 14:37:36 WIB 2023] ItzFabb__: &f[inv]
+[Wed Feb 08 14:37:41 WIB 2023] ItzFabb__: &f[inventory]
+[Wed Feb 08 14:37:54 WIB 2023] ItzFabb__: &f[item]
+[Wed Feb 08 14:45:36 WIB 2023] ItzFabb__: &f[i]
+[Wed Feb 08 15:54:49 WIB 2023] ItzFabb__: &ftest
+[Wed Feb 08 15:55:40 WIB 2023] ItzFabb__: &ftest
+[Wed Feb 08 15:56:26 WIB 2023] ItzFabb__: &fSkeleton. 
+[Mon Feb 13 02:27:42 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 2000
+[Mon Feb 13 02:27:52 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 3000
+[Mon Feb 13 02:28:00 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 5000
+[Mon Feb 13 02:28:03 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 5000
+[Mon Feb 13 02:28:10 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 4000
+[Mon Feb 13 02:28:28 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 5000
+[Mon Feb 13 02:28:57 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 20
+[Mon Feb 13 02:29:04 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 30
+[Mon Feb 13 02:29:12 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 40
+[Mon Feb 13 02:30:50 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 300
+[Mon Feb 13 02:31:00 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 300
+[Mon Feb 13 08:51:51 WIB 2023] ItzFabb__: &ftest
+[Mon Feb 13 08:53:19 WIB 2023] ItzFabb__: &f25
+[Mon Feb 13 08:53:29 WIB 2023] ItzFabb__: &f25
+[Mon Feb 13 08:53:39 WIB 2023] ItzFabb__: &f25
+[Mon Feb 13 08:53:48 WIB 2023] ItzFabb__: &f25
+[Mon Feb 13 08:53:59 WIB 2023] ItzFabb__: &f20
+[Mon Feb 13 08:54:09 WIB 2023] ItzFabb__: &f17.5
+[Mon Feb 13 08:54:21 WIB 2023] ItzFabb__: &f16.25
+[Mon Feb 13 08:54:33 WIB 2023] ItzFabb__: &f16
+[Mon Feb 13 08:54:52 WIB 2023] ItzFabb__: &f17
+[Mon Feb 13 08:55:10 WIB 2023] ItzFabb__: &f13
+[Mon Feb 13 08:55:23 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 08:55:37 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 10000
+[Mon Feb 13 08:55:51 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 20000
+[Mon Feb 13 08:55:55 WIB 2023] ItzFabb__: &f12
+[Mon Feb 13 08:56:02 WIB 2023] ItzFabb__: &f14
+[Mon Feb 13 08:56:15 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 30000
+[Mon Feb 13 08:56:19 WIB 2023] ItzFabb__: &f13
+[Mon Feb 13 08:56:42 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 10
+[Mon Feb 13 08:56:50 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 25
+[Mon Feb 13 08:56:56 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 08:57:06 WIB 2023] ItzFabb__: &f14
+[Mon Feb 13 08:57:11 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 50
+[Mon Feb 13 08:57:20 WIB 2023] ItzFabb__: &f13
+[Mon Feb 13 08:57:25 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 75
+[Mon Feb 13 08:57:41 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 08:58:04 WIB 2023] ItzFabb__: &ft
+[Mon Feb 13 08:58:19 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 08:58:34 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 09:26:20 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 50000
+[Mon Feb 13 09:26:38 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 100000
+[Mon Feb 13 09:26:55 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 150000
+[Mon Feb 13 09:27:09 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 200000
+[Mon Feb 13 09:27:38 WIB 2023] ItzFabb__: &ftest
+[Mon Feb 13 09:28:37 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 100
+[Mon Feb 13 09:28:46 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 200
+[Mon Feb 13 09:28:55 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 300
+[Mon Feb 13 09:29:27 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 6 minute
+[Mon Feb 13 09:29:37 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 10 minute
+[Mon Feb 13 09:29:46 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 20 minute
+[Mon Feb 13 09:30:00 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 30 minute
+[Mon Feb 13 10:10:22 WIB 2023] ItzFabb__: &f1
+[Mon Feb 13 10:10:33 WIB 2023] ItzFabb__: &f2
+[Mon Feb 13 10:10:35 WIB 2023] ItzFabb__: &f3
+[Mon Feb 13 10:10:38 WIB 2023] ItzFabb__: &f4
+[Mon Feb 13 10:10:40 WIB 2023] ItzFabb__: &f5
+[Mon Feb 13 10:10:42 WIB 2023] ItzFabb__: &f6
+[Mon Feb 13 10:10:44 WIB 2023] ItzFabb__: &f7
+[Mon Feb 13 10:10:46 WIB 2023] ItzFabb__: &f8
+[Mon Feb 13 10:10:49 WIB 2023] ItzFabb__: &f9
+[Mon Feb 13 10:10:51 WIB 2023] ItzFabb__: &f10
+[Mon Feb 13 10:10:53 WIB 2023] ItzFabb__: &f11
+[Mon Feb 13 10:11:00 WIB 2023] ItzFabb__: &ftes
+[Mon Feb 13 10:11:11 WIB 2023] ItzFabb__: &ftets
+[Mon Feb 13 10:12:34 WIB 2023] ItzFabb__: &ftest
+[Mon Feb 13 10:12:42 WIB 2023] ItzFabb__: &f12
+[Mon Feb 13 10:12:44 WIB 2023] ItzFabb__: &f13
+[Mon Feb 13 10:12:47 WIB 2023] ItzFabb__: &f14
+[Mon Feb 13 10:12:49 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 10:12:52 WIB 2023] ItzFabb__: &f16
+[Mon Feb 13 10:12:54 WIB 2023] ItzFabb__: &f17
+[Mon Feb 13 10:12:57 WIB 2023] ItzFabb__: &f18
+[Mon Feb 13 10:13:34 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 10:13:44 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 100000
+[Mon Feb 13 10:13:50 WIB 2023] ItzFabb__: &f10
+[Mon Feb 13 10:13:53 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 200000
+[Mon Feb 13 10:14:06 WIB 2023] ItzFabb__: &f7.5
+[Mon Feb 13 10:14:09 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 300000
+[Mon Feb 13 10:14:19 WIB 2023] ItzFabb__: &f[CONSOLE] eco give %player_name% 400000
+[Mon Feb 13 10:14:22 WIB 2023] ItzFabb__: &f5
+[Mon Feb 13 10:14:43 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 10
+[Mon Feb 13 10:14:47 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 100
+[Mon Feb 13 10:15:07 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 200
+[Mon Feb 13 10:15:33 WIB 2023] ItzFabb__: &f[CONSOLE] points give %player_name% 300
+[Mon Feb 13 10:15:39 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 10:15:43 WIB 2023] ItzFabb__: &f10
+[Mon Feb 13 10:15:46 WIB 2023] ItzFabb__: &f5
+[Mon Feb 13 10:15:51 WIB 2023] ItzFabb__: &f19
+[Mon Feb 13 10:15:55 WIB 2023] ItzFabb__: &f20
+[Mon Feb 13 10:15:57 WIB 2023] ItzFabb__: &f21
+[Mon Feb 13 10:16:23 WIB 2023] ItzFabb__: &f[CONSOLE ]tf add %player_name% 10 minute
+[Mon Feb 13 10:16:29 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 10 minute
+[Mon Feb 13 10:16:41 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 20 minute
+[Mon Feb 13 10:16:47 WIB 2023] ItzFabb__: &f20
+[Mon Feb 13 10:16:52 WIB 2023] ItzFabb__: &f1.5
+[Mon Feb 13 10:16:56 WIB 2023] ItzFabb__: &f17.5
+[Mon Feb 13 10:17:01 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 10:17:06 WIB 2023] ItzFabb__: &f[CONSOLE] tf add %player_name% 30 minute
+[Mon Feb 13 10:17:12 WIB 2023] ItzFabb__: &f22
+[Mon Feb 13 10:17:14 WIB 2023] ItzFabb__: &f23
+[Mon Feb 13 10:17:16 WIB 2023] ItzFabb__: &f24
+[Mon Feb 13 10:17:18 WIB 2023] ItzFabb__: &f25
+[Mon Feb 13 10:17:25 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 10:17:34 WIB 2023] ItzFabb__: &f12.5
+[Mon Feb 13 10:17:45 WIB 2023] ItzFabb__: &f15
+[Mon Feb 13 10:17:54 WIB 2023] ItzFabb__: &f12.5
+[Mon Feb 13 14:33:16 WIB 2023] ItzFabb__: &ftest
+[Mon Dec 04 16:50:18 GMT 2023] ItzOverWolf: e
+[Mon Dec 04 21:01:27 GMT 2023] ItzOverWolf: rtpp
+[Mon Dec 04 21:07:35 GMT 2023] ItzOverWolf: rtp
+[Mon Dec 04 21:14:33 GMT 2023] ItzOverWolf: e
+[Mon Dec 04 21:20:30 GMT 2023] ItzOverWolf: re
+[Tue Dec 05 16:06:56 GMT 2023] ItzOverWolf: rtpp
+[Tue Dec 05 16:38:20 GMT 2023] ItzOverWolf: hi
+[Tue Dec 05 16:39:27 GMT 2023] ItzOverWolf: r
+[Tue Dec 05 17:50:31 GMT 2023] DrxIris: OPme
+[Tue Dec 05 17:50:51 GMT 2023] DrxIris: wolf
+[Tue Dec 05 17:50:58 GMT 2023] ItzOverWolf: ?
+[Tue Dec 05 17:51:20 GMT 2023] DrxIris: change rank name
+[Tue Dec 05 17:51:21 GMT 2023] DrxIris: like
+[Tue Dec 05 17:51:25 GMT 2023] DrxIris: Ultra
+[Tue Dec 05 17:51:28 GMT 2023] DrxIris: Elite
+[Tue Dec 05 17:51:30 GMT 2023] DrxIris: Rare
+[Tue Dec 05 17:51:32 GMT 2023] DrxIris: Epic
+[Tue Dec 05 17:51:37 GMT 2023] DrxIris: Legendary
+[Tue Dec 05 17:51:38 GMT 2023] ItzOverWolf: nah they can do that themself
+[Tue Dec 05 17:51:47 GMT 2023] DrxIris: ;-;
+[Tue Dec 05 17:52:03 GMT 2023] DrxIris: you added
+[Tue Dec 05 17:52:08 GMT 2023] ItzOverWolf: re
+[Tue Dec 05 17:52:09 GMT 2023] DrxIris: aurelium skills?
+[Tue Dec 05 17:52:13 GMT 2023] ItzOverWolf: ues
+[Tue Dec 05 17:52:17 GMT 2023] ItzOverWolf: yes
+[Tue Dec 05 17:52:35 GMT 2023] DrxIris: paid right?
+[Tue Dec 05 17:53:00 GMT 2023] ItzOverWolf: no?
+[Tue Dec 05 17:53:04 GMT 2023] DrxIris: WHy
+[Tue Dec 05 17:53:06 GMT 2023] DrxIris: bro
+[Tue Dec 05 17:53:14 GMT 2023] DrxIris: stop being so good
+[Tue Dec 05 17:53:19 GMT 2023] DrxIris: no one matters
+[Tue Dec 05 17:53:21 GMT 2023] ItzOverWolf: ??
+[Tue Dec 05 17:53:26 GMT 2023] ItzOverWolf: the plugin is not paid
+[Tue Dec 05 17:53:32 GMT 2023] DrxIris: the setups
+[Tue Dec 05 17:53:35 GMT 2023] ItzOverWolf: oh
+[Tue Dec 05 17:53:48 GMT 2023] ItzOverWolf: first i make every gamemode
+[Tue Dec 05 17:53:57 GMT 2023] ItzOverWolf: then make them again but premium
+[Tue Dec 05 17:54:04 GMT 2023] DrxIris: when your thinking
+[Tue Dec 05 17:54:07 GMT 2023] DrxIris: to release
+[Tue Dec 05 17:54:08 GMT 2023] DrxIris: bedwars
+[Tue Dec 05 17:54:10 GMT 2023] DrxIris: the way i told
+[Tue Dec 05 17:54:15 GMT 2023] DrxIris: k
+[Tue Dec 05 17:54:27 GMT 2023] ItzOverWolf: idk
+[Tue Dec 05 17:54:36 GMT 2023] ItzOverWolf: the bedwars will be paid ig
+[Tue Dec 05 17:54:48 GMT 2023] DrxIris: wolf one doubt
+[Tue Dec 05 17:54:52 GMT 2023] ItzOverWolf: yes
+[Tue Dec 05 17:54:55 GMT 2023] DrxIris: bedwars
+[Tue Dec 05 17:54:59 GMT 2023] DrxIris: would be new 1.20
+[Tue Dec 05 17:55:03 GMT 2023] ItzOverWolf: yes
+[Tue Dec 05 17:55:04 GMT 2023] DrxIris: pvp wold be 1.19
+[Tue Dec 05 17:55:15 GMT 2023] DrxIris: then it would be like spam hits waste?
+[Tue Dec 05 17:55:23 GMT 2023] ItzOverWolf: we can make it 1.8 combat as well
+[Tue Dec 05 17:55:29 GMT 2023] DrxIris: no no
+[Tue Dec 05 17:55:31 GMT 2023] ItzOverWolf: on a 1.20 server
+[Tue Dec 05 17:55:38 GMT 2023] DrxIris: what i meant it
+[Tue Dec 05 17:55:39 GMT 2023] DrxIris: is
+[Tue Dec 05 17:55:45 GMT 2023] DrxIris: dia generator
+[Tue Dec 05 17:55:47 GMT 2023] DrxIris: ems
+[Tue Dec 05 17:55:57 GMT 2023] DrxIris: netherite and ameyst gens as wells
+[Tue Dec 05 17:56:03 GMT 2023] DrxIris: it would work in 1.8 combat?
+[Tue Dec 05 17:56:03 GMT 2023] ItzOverWolf: yea
+[Tue Dec 05 17:56:08 GMT 2023] ItzOverWolf: yep
+[Tue Dec 05 17:56:11 GMT 2023] DrxIris: wtf
+[Tue Dec 05 17:56:14 GMT 2023] DrxIris: possible?
+[Tue Dec 05 17:56:16 GMT 2023] ItzOverWolf: yes
+[Tue Dec 05 17:56:18 GMT 2023] DrxIris: i thought no
+[Tue Dec 05 17:56:26 GMT 2023] ItzOverWolf: we can add the old combat system on 1.20 servers
+[Tue Dec 05 17:56:39 GMT 2023] DrxIris: netherite gen would work?
+[Tue Dec 05 17:56:42 GMT 2023] DrxIris: copper etc
+[Tue Dec 05 17:56:42 GMT 2023] ItzOverWolf: yes
+[Tue Dec 05 17:56:47 GMT 2023] DrxIris: you sure?
+[Tue Dec 05 17:56:47 GMT 2023] ItzOverWolf: 1.20 custom maps
+[Tue Dec 05 17:56:56 GMT 2023] ItzOverWolf: yes cause i made it
+[Tue Dec 05 17:57:05 GMT 2023] DrxIris: when did you even used bedwar
+[Tue Dec 05 17:57:26 GMT 2023] ItzOverWolf: like 2 months ago
+[Tue Dec 05 17:57:28 GMT 2023] ItzOverWolf: or 1
+[Tue Dec 05 17:57:34 GMT 2023] DrxIris: one more doubt
+[Tue Dec 05 17:57:56 GMT 2023] DrxIris: we can add some trolling activites?
+[Tue Dec 05 17:58:01 GMT 2023] DrxIris: like we do in survival
+[Tue Dec 05 17:58:02 GMT 2023] ItzOverWolf: ?
+[Tue Dec 05 17:58:07 GMT 2023] DrxIris: tnt laucnher etc
+[Tue Dec 05 17:58:16 GMT 2023] ItzOverWolf: yea i tired that as well
+[Tue Dec 05 17:58:26 GMT 2023] ItzOverWolf: tnt bounce and fire bounce
+[Tue Dec 05 17:58:29 GMT 2023] DrxIris: yea
+[Tue Dec 05 17:58:48 GMT 2023] DrxIris: i thought making something like ponds
+[Tue Dec 05 17:58:50 GMT 2023] DrxIris: in maps
+[Tue Dec 05 17:59:04 GMT 2023] DrxIris: and some secret rooms
+[Tue Dec 05 17:59:18 GMT 2023] ItzOverWolf: sure
+[Tue Dec 05 17:59:21 GMT 2023] DrxIris: which is opened when a key is bought fromshop
+[Tue Dec 05 17:59:25 GMT 2023] DrxIris: from netherite
+[Tue Dec 05 17:59:30 GMT 2023] DrxIris: like that tuff bedwars
+[Tue Dec 05 17:59:34 GMT 2023] DrxIris: fun and mysterious
+[Tue Dec 05 17:59:45 GMT 2023] ItzOverWolf: yea the hard part is to make the new shops for netherite and other ores
+[Tue Dec 05 17:59:53 GMT 2023] DrxIris: ye
+[Tue Dec 05 17:59:55 GMT 2023] DrxIris: ig
+[Tue Dec 05 18:00:05 GMT 2023] DrxIris: iron copper gold together
+[Tue Dec 05 18:00:13 GMT 2023] DrxIris: ems dia shards together
+[Tue Dec 05 18:00:19 GMT 2023] DrxIris: netherite separte
+[Tue Dec 05 18:00:28 GMT 2023] ItzOverWolf: this factions server is almost done btw add any improvements you think it needs
+[Tue Dec 05 18:00:38 GMT 2023] DrxIris: change color
+[Tue Dec 05 18:00:39 GMT 2023] DrxIris: to lime
+[Tue Dec 05 18:00:41 GMT 2023] DrxIris: ngl
+[Tue Dec 05 18:00:49 GMT 2023] DrxIris: world edit
+[Tue Dec 05 18:00:59 GMT 2023] ItzOverWolf: go ahead
+[Tue Dec 05 18:01:07 GMT 2023] ItzOverWolf: .//replacenear
+[Tue Dec 05 18:01:09 GMT 2023] DrxIris: fast is here?
+[Tue Dec 05 18:01:14 GMT 2023] ItzOverWolf: yes
+[Tue Dec 05 18:01:15 GMT 2023] DrxIris: fastasync
+[Tue Dec 05 18:01:27 GMT 2023] SkullerCraft: Hello. 
+[Tue Dec 05 18:01:31 GMT 2023] ItzOverWolf: sup
+[Tue Dec 05 18:01:42 GMT 2023] SkullerCraft: so what help do u need wolf
+[Tue Dec 05 18:02:08 GMT 2023] ItzOverWolf: the setup is almost done just need to add anything that's missing really
+[Tue Dec 05 18:02:17 GMT 2023] SkullerCraft: oh alr
+[Tue Dec 05 18:02:34 GMT 2023] SkullerCraft: u use advanced enchants right?
+[Tue Dec 05 18:02:41 GMT 2023] ItzOverWolf: crazyenchants
+[Tue Dec 05 18:02:44 GMT 2023] SkullerCraft: ah alr
+[Tue Dec 05 18:03:28 GMT 2023] DrxIris: No
+[Tue Dec 05 18:03:31 GMT 2023] DrxIris: WTF
+[Tue Dec 05 18:03:37 GMT 2023] SkullerCraft: ?
+[Tue Dec 05 18:03:44 GMT 2023] DrxIris: it didnt lagged
+[Tue Dec 05 18:03:48 GMT 2023] DrxIris: wol
+[Tue Dec 05 18:03:49 GMT 2023] DrxIris: wolf
+[Tue Dec 05 18:03:52 GMT 2023] ItzOverWolf: ?
+[Tue Dec 05 18:03:52 GMT 2023] DrxIris: how many gb
+[Tue Dec 05 18:03:56 GMT 2023] ItzOverWolf: 4
+[Tue Dec 05 18:03:57 GMT 2023] SkullerCraft: 4
+[Tue Dec 05 18:04:00 GMT 2023] DrxIris: how
+[Tue Dec 05 18:04:06 GMT 2023] DrxIris: it lagged when you made prison
+[Tue Dec 05 18:04:09 GMT 2023] DrxIris: its not lagging now
+[Tue Dec 05 18:04:26 GMT 2023] ItzOverWolf: maybe prison didn't had fawe
+[Tue Dec 05 18:04:55 GMT 2023] SkullerCraft: u replaced all the blocks?
+[Tue Dec 05 18:05:37 GMT 2023] DrxIris: wolf
+[Tue Dec 05 18:05:47 GMT 2023] DrxIris: looks good?
+[Tue Dec 05 18:07:06 GMT 2023] ItzOverWolf: yep
+[Tue Dec 05 18:09:01 GMT 2023] DrxIris: done
+[Tue Dec 05 18:09:18 GMT 2023] DrxIris: nametagedit not working btw
+[Tue Dec 05 18:09:21 GMT 2023] ItzOverWolf: do you know how to make holograms?
+[Tue Dec 05 18:09:25 GMT 2023] DrxIris: ye
+[Tue Dec 05 18:09:34 GMT 2023] DrxIris: decent holograms right?
+[Tue Dec 05 18:09:41 GMT 2023] ItzOverWolf: can you make 4 like around called DANGER ZONE
+[Tue Dec 05 18:09:51 GMT 2023] DrxIris: plugin here?
+[Tue Dec 05 18:09:54 GMT 2023] ItzOverWolf: yes
+[Tue Dec 05 18:11:34 GMT 2023] DrxIris: wolf
+[Tue Dec 05 18:11:42 GMT 2023] ItzOverWolf: ?
+[Tue Dec 05 18:11:45 GMT 2023] DrxIris: done
+[Tue Dec 05 18:11:48 GMT 2023] DrxIris: check
+[Tue Dec 05 18:12:14 GMT 2023] DrxIris: Here
+[Tue Dec 05 18:12:24 GMT 2023] ItzOverWolf: k
+[Tue Dec 05 18:12:30 GMT 2023] DrxIris: you can move them
+[Tue Dec 05 18:12:32 GMT 2023] DrxIris: with /movehere
+[Tue Dec 05 18:12:41 GMT 2023] DrxIris: danger 1,2,3,4
+[Tue Dec 05 18:13:45 GMT 2023] DrxIris: done
+[Tue Dec 05 18:13:48 GMT 2023] DrxIris: red color
+[Tue Dec 05 18:15:16 GMT 2023] ItzOverWolf: k
+[Tue Dec 05 18:15:38 GMT 2023] ItzOverWolf: eating as we speak btw
+[Tue Dec 05 18:16:30 GMT 2023] DrxIris: kk
+[Tue Dec 05 18:16:45 GMT 2023] DrxIris: eating bread?
+[Tue Dec 05 18:16:53 GMT 2023] DrxIris: nvm k
+[Tue Dec 05 18:18:40 GMT 2023] DrxIris: well i gtg
+[Tue Dec 05 18:18:43 GMT 2023] DrxIris: its late for me
+[Tue Dec 05 18:32:17 GMT 2023] DrxIris: wolf
+[Sat Dec 09 17:11:12 GMT 2023] ItzOverWolf: e
+[Sat Dec 09 17:11:48 GMT 2023] ItzOverWolf: e
+[Sat Dec 09 17:17:35 GMT 2023] ItzOverWolf: e
+[Sat Dec 09 17:18:34 GMT 2023] ItzOverWolf: er

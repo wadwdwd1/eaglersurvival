@@ -1,0 +1,54 @@
+[2025/05/27 00:31:09]: §9          __             _       
+[2025/05/27 00:31:09]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/05/27 00:31:09]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/05/27 00:31:09]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/05/27 00:31:09]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/05/27 00:31:09]: §9                  |___/            
+[2025/05/27 00:31:09]: §9 By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[2025/05/27 00:31:09]: §9 
+[2025/05/27 00:31:10]: §3[nLogin] [DEBUG] All settings were loaded in 404 ms.
+[2025/05/27 00:31:10]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2025/05/27 00:31:10]: §3[nLogin] [DEBUG] All plugin messages were loaded in 185 ms (languageByClient=false).
+[2025/05/27 00:31:10]: §3[nLogin] [DEBUG] All proxy settings were loaded in 35 ms.
+[2025/05/27 00:31:10]: §3[nLogin] [DEBUG] Loading database...
+[2025/05/27 00:31:10]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/05/27 00:31:15]: 
+[2025/05/27 00:31:15]:  §bThank you so much for choosing nLogin! §4<3
+[2025/05/27 00:31:15]: 
+[2025/05/27 00:31:15]:  §4For your safety, please read the message below:
+[2025/05/27 00:31:15]:   §cNever download nLogin from unknown sources.
+[2025/05/27 00:31:15]:   §cA modified version may contain malicious software.
+[2025/05/27 00:31:15]: 
+[2025/05/27 00:31:15]:  §3Trusted sources:
+[2025/05/27 00:31:15]:   §bwww.nickuc.com
+[2025/05/27 00:31:15]:   §bwww.github.com/nickuc
+[2025/05/27 00:31:15]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2025/05/27 00:31:15]: 
+[2025/05/27 00:31:15]:  §3Official support channels:
+[2025/05/27 00:31:15]:   §bDiscord group: §fwww.nickuc.com/discord
+[2025/05/27 00:31:15]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2025/05/27 00:31:15]:   §bEmail: §fsupport@nickuc.com
+[2025/05/27 00:31:15]:   §bYouTube: §fyoutube.com/nickuc
+[2025/05/27 00:31:15]: 
+[2025/05/27 00:31:15]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2025/05/27 00:31:15]:  §eand click the "Setup plugin" button to configure your plugin.
+[2025/05/27 00:31:15]: 
+[2025/05/27 00:37:30]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('YeeVigg1211', bf17b4304bd438a1800af043782616ea, null, null, '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', '0:0:0:0:0:0:0:1', '2025-05-27 00:37:29.371', '2025-05-27 00:37:29.371', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2025/05/27 00:37:30]: [nLogin] The user YeeVigg1211 has successfully registered.
+[2025/05/27 00:37:44]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:37:44.863, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":true,"key":"force-invalid-session"},{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/27 00:39:58]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:39:58.189, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/27 00:39:58]: [nLogin] The user YeeVigg1211 has successfully logged in.
+[2025/05/27 00:40:02]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:40:02.806, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/27 00:45:06]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:45:06.489, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/27 00:45:06]: [nLogin] The user YeeVigg1211 has successfully logged in.
+[2025/05/27 00:45:34]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:45:33.702, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/27 00:45:38]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:45:38.567, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/27 00:45:38]: [nLogin] The user YeeVigg1211 has successfully logged in.
+[2025/05/27 00:45:42]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:45:42.692, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/27 00:48:09]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:48:09.024, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/27 00:48:09]: [nLogin] The user YeeVigg1211 has successfully logged in.
+[2025/05/27 00:48:29]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:48:29.019, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/27 00:50:41]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:50:41.355, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/27 00:50:41]: [nLogin] The user YeeVigg1211 has successfully logged in.
+[2025/05/27 00:52:17]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'YeeVigg1211', `unique_id` = bf17b4304bd438a1800af043782616ea,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$4T20jjvuSVwtW28b2ukMwOqvpnDQ0ifm5CxLRbtm5wyD3R5l/G.pq', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-05-27 00:37:29.371, `last_seen` = 2025-05-27 00:52:17.113, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"limbo","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/27 00:53:08]: [nLogin] Successful plugin core shutdown (took 0.00s)

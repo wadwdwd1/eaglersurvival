@@ -1,0 +1,17 @@
+# # # # # # # # # # # # # # # # #
+defaults:
+  text: Blank Line
+  display-range: 64
+  update-range: 64
+  update-interval: 20
+  origin: UP
+  height: {}
+update-checker: true
+damage-display:
+  enabled: false
+  duration: 40
+  appearance: '&c{damage}'
+healing-display:
+  enabled: false
+  duration: 40
+  appearance: '&a+ {heal}'

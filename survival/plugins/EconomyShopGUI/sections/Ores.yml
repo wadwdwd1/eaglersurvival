@@ -1,0 +1,16 @@
+enable: true
+slot: 34
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: IRON_INGOT
+  lore:
+  - '&7Become a miner! &8&oWait.'
+  displayname: '&bOres'
+  name: '&8Ores'

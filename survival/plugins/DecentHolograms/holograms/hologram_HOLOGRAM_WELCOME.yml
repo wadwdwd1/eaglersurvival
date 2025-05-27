@@ -1,0 +1,22 @@
+location: spawn:-732.490:65.000:-232.472
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 90.0
+origin: UP
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: GRASS_BLOCK'
+    height: 0.5
+  - content: '&a&lSURVIVAL &f&lSERVER'
+    height: 0.8
+  - content: '&fTo begin your journey playing on our network'
+    height: 0.3
+  - content: '&fdo &a/RTP&f to randomly teleport to a safe location'
+    height: 0.3
+  - content: '&fand claim your land with your golden shovel'
+    height: 0.3
+  actions: {}
+always-face-player: true

@@ -1,0 +1,16 @@
+enable: true
+slot: 21
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: WHEAT
+  lore:
+  - '&7Become a Farmer!'
+  displayname: '&eFarming'
+  name: '&8Farming'

@@ -1,0 +1,164 @@
+menu_title: '&8Rules'
+open_command:
+- rules
+- aturan
+size: 45
+items:
+  '1':
+    material: BLACK_STAINED_GLASS_PANE
+    display_name: ' &r '
+    slots:
+    - 0-44
+  'close':
+    material: BARRIER
+    display_name: '&c&l❌ &cClose'
+    click_commands:
+    - '[close]'
+    - '[sound] BLOCK_NOTE_BLOCK_IRON_XYLOPHONE'
+    slot: 40
+  'goback':
+    material: ARROW
+    display_name: "&#00FF00&l⤊ &#00FF00Go Back"
+    click_commands:
+    - "[sound] BLOCK_NOTE_BLOCK_IRON_XYLOPHONE"
+    - "[player] menu"
+    slot: 36    
+    
+  'chat-rules':
+    material: PAPER
+    slot: 1
+    display_name: '&#00FF00&l| &#00FF00Chat Rules'
+  'global-rules':
+    material: PAPER
+    slot: 4
+    display_name: '&#00FF00&l| &#00FF00Global Rules'
+  'global-severe':
+    material: PAPER
+    slot: 7
+    display_name: '&#00FF00&l| &#00FF00Severe Rules'
+
+
+  'chat-rules-1':
+    material: PAPER
+    slot: 9
+    display_name: '&#00FF00&lCHAT RULES &8| &f1.0'
+    lore:
+    - '&eAvoid harassing other players or staff.'
+    - '&fThis applies to all chats, whether general,'
+    - '&f&n/message&f, or any other available channel.'
+  'chat-rules-2':
+    material: PAPER
+    slot: 10
+    display_name: '&#00FF00&lCHAT RULES &8| &f1.1'
+    lore:
+    - '&eSpamming is prohibited in all available channels.'
+    - '&fThis includes repeated messages, sending'
+    - '&fdifferent messages quickly, character spam,'
+    - '&for using all caps for most messages.'
+  'chat-rules-3':
+    material: PAPER
+    slot: 18
+    display_name: '&#00FF00&lCHAT RULES &8| &f1.2'
+    lore:
+    - '&eKeep chat &nSFW&e! Speaking about pornography, 18+'
+    - '&ftopics, or any content containing adult material is prohibited.'
+    - '&fThis is not an OnlyFans community, so keep the chat SFW!'
+  'chat-rules-4':
+    material: PAPER
+    slot: 19
+    display_name: '&#00FF00&lCHAT RULES &8| &f1.3'
+    lore:
+    - '&eIncluding offensive content in any conversation is prohibited.'
+    - '&fThis includes sensitive topics such as:'
+    - ' &8♢ &FPolitics'
+    - ' &8♢ &fReligion'
+    - ' &8♢ &fViolence'
+    - ' &8♢ &fSexual Topics (e.g. Rape)'
+    - ' &8♢ &fSuicide/Self-Harm'
+    - ' &8♢ &fTerrorism'
+    - ' &8♢ &fWar'
+    - ' &8♢ &fSchool Shootings'
+    - ' &8♢ &f&o(Other serious topics)'
+    - ''
+    - '&fHate speech, including racial slurs, sexist or homophobic remarks,'
+    - '&fand any similar types of messages, will not be tolerated.'
+
+#
+  'global-rules-1':
+    material: PAPER
+    slot: 12
+    display_name: '&#00FF00&lGLOBAL RULES &8| &f2.1'
+    lore:
+    - '&eBuilds displaying NSFW/offensive content are prohibited.'
+    - '&fThis also applies to signs and written PAPERs.'
+  'global-rules-2':
+    material: PAPER
+    slot: 13
+    display_name: '&#00FF00&lGLOBAL RULES &8| &f2.2'
+    lore:
+    - '&eYour Minecraft skin must comply with our rules.'
+    - '&fPlease avoid using the following skins:'
+    - ' &8♢ &fSexual or NSFW skins (including nudity)'
+  'global-rules-3':
+    material: PAPER
+    slot: 14
+    display_name: '&#00FF00&lGLOBAL RULES &8| &f2.3'
+    lore:
+    - '&eImpersonating staff through skins, names, or chat is prohibited.'
+    - '&fThis also includes &nMini-Modding&f!'
+  'global-rules-4':
+    material: PAPER
+    slot: 21
+    display_name: '&#00FF00&lGLOBAL RULES &8| &f2.4'
+    lore:
+    - '&eGlitch/Bug/Issue abuse is a serious offense.'
+    - '&fModerators decide what is considered a glitch. If you find one,'
+    - '&fplease report it immediately via Discord, and do not share'
+    - '&fit with others or use it for personal advantage.'
+  'global-rules-5':
+    material: PAPER
+    slot: 22
+    display_name: '&#00FF00&lGLOBAL RULES &8| &f2.5'
+    lore:
+    - '&eUsing lag machines/farms/builds causing server/client lag'
+    - '&fis punishable depending on the severity.'
+  'global-rules-6':
+    material: PAPER
+    slot: 23
+    display_name: '&#00FF00&lGLOBAL RULES &8| &f2.6'
+    lore:
+    - '&eExploiting rules to benefit yourself is prohibited.'
+    - '&fIf you can’t find a specific example in the rules,'
+    - '&fit doesn’t mean the action is allowed.'
+#
+  'severe-rules-1':
+    material: PAPER
+    slot: 16
+    display_name: '&#00FF00&lSERVER RULES &8| &f3.1'
+    lore:
+    - '&eIf you’re punished by staff for breaking rules,'
+    - '&fany attempt to evade the punishment will increase its severity.'
+  'severe-rules-2':
+    material: PAPER
+    slot: 17
+    display_name: '&#00FF00&lSERVER RULES &8| &f3.2'
+    lore:
+    - '&eUsing modified clients to gain a major advantage over others'
+    - '&fis a bannable offense.'
+    - '&8&o(Example: Logging in with a hacked client.)'
+  'severe-rules-3':
+    material: PAPER
+    slot: 25
+    display_name: '&#00FF00&lSERVER RULES &8| &f3.3'
+    lore:
+    - '&eChargebacks on store purchases are prohibited.'
+    - '&fThis will result in an immediate, permanent ban.'
+  'severe-rules-4':
+    material: PAPER
+    slot: 26
+    display_name: '&#00FF00&lSERVER RULES &8| &f3.4'
+    lore:
+    - '&eDo not share personal information such as names, addresses,'
+    - '&for social media accounts without permission.'
+    - '&fSharing this information maliciously may be considered doxxing,'
+    - '&fwhich will result in an instant ban.'
